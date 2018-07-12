@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: deneme
+title: hoppala paşam
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
